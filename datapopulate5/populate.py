@@ -3,7 +3,7 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE','datapopulate5.settings')
 import django
 django.setup()
 
-from testapp.models import *  #jis table me kaam karna h uska naam
+from testapp.models import *  
 from faker import Faker
 from random import *
 fake=Faker()
