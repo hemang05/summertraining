@@ -19,5 +19,3 @@ def populate(n):
 
 populate(25)
         
-
-#by default file ka output console pe aata h ....
